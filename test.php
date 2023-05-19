@@ -11,3 +11,7 @@
     <h1>Ihsan jaya</h1>
 </body>
 </html>
+<?php
+$i = 1;
+$x = 1;
+?>
